@@ -21,7 +21,7 @@ I thrive in Agile (Scrum) environments, leading teams and coordinating logistics
 
 ## 🌟 SDET Architecture & Portfolio
 
-He diseñado una arquitectura de automatización enfocada en escalabilidad, seguridad y lectura humana. Te invito a explorar mi enfoque técnico, patrones de diseño y manejo de CI/CD en mi presentación interactiva.
+I have designed an automation architecture focused on scalability, security, and human readability. I invite you to explore my technical approach, design patterns, and CI/CD management in my interactive presentation.
 
 👉 **[HACER CLIC AQUÍ PARA VER MI PORTAFOLIO INTERACTIVO SDET](https://jesusperd.github.io/portfolio-sdet)** 👈
 
