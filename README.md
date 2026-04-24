@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jesusperd.github.io/portfolio-sdet">
-    <img src="https://via.placeholder.com/1200x300.png?text=Ver+Mi+Portafolio+Interactivo+SDET" alt="Banner Portafolio" width="100%" />
+    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&h=300&fit=crop" alt="Jesús Reyes | SDET Architect Banner" width="100%" />
   </a>
 </div>
 
