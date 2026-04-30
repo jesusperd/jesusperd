@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Senior QA Engineer with over **6 years of experience** ensuring software excellence across high-traffic platforms in Latin America (🇦🇷, 🇺🇸, 🇧🇷, 🇨🇴, 🇲🇽, and 🇺🇾). I specialize in designing and implementing robust automation frameworks that bridge the gap between development and high-quality delivery.
+Senior QA Engineer with over **6 years of experience** ensuring software excellence across high-traffic platforms in Latin America (🇦🇷, 🇺🇸, 🇧🇷, 🇨🇴, 🇲🇽 and 🇺🇾). I specialize in designing and implementing robust automation frameworks that bridge the gap between development and high-quality delivery.
 
 I thrive in Agile (Scrum) environments, leading teams and coordinating logistics for high-pressure projects. My approach combines technical rigor with a focus on business ROI and team autonomy. 
 
